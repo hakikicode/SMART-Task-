@@ -5,10 +5,10 @@
 
 ## Task Name ##
 # Maximum 24 characters.
-task_name: "Task Name"
+task_name: "SMART Task"
 
 ## Task Author ##
-author: "Koii"
+author: "Hakiki"
 
 # Task Description Markdown ##
 # If you specify a markdown file, the description field will be ignored.
@@ -17,18 +17,18 @@ markdownDescriptionPath: "./TaskDescription.md"
 
 ## Task Description ##
 # Ignored if you specify a markdown file.
-description: "Task description."
+description: "Earn tokens by playing Smartclick Game"
 
 ## Repository URL ##
 # Must be public for whitelisted tasks.
-repositoryUrl: "https://github.com/koii-network/task-template"
+repositoryUrl: "https://github.com/hakikicode/SMART-Task-"
 
 ## Image URL ##
 # 230x86 pixels.
-imageUrl: "imageUrl"
+imageUrl: "https://github.com/hakikicode/SmartClick/blob/main/public/son.png?raw=true"
 
 ## Info URL ##
-infoUrl: "infoUrl"
+infoUrl: "https://www.nativeopen.x"
 
 ####################################### TASK CONFIGURATION ######################################
 
@@ -66,7 +66,7 @@ task_type: "KPL"
 
 ## Token Mint Address (ONLY for KPL tasks) ##
 # The Fire Token address is provided as an example.
-token_type: "FJG2aEPtertCXoedgteCCMmgngSZo1Zd715oNBzR7xpR"
+token_type: "HK8STMDTos4QFocyEADxwdXBrN13DCB9AcwLXsmvBthh"
 
 ## Total Bounty Amount ##
 # The total bounty amount that will be available for distribution over all rounds.
@@ -101,7 +101,7 @@ requirementsTags:
     value: "5 GB"
   - type: TASK_VARIABLE
     value: "TEST_VARIABLE"
-    description: "An example to demonstrate the use of task variables."
+    description: "Samrt Task submit and validate games data."
 
 ## Tags ##
 # See https://www.koii.network/docs/develop/command-line-tool/create-task-cli/create-task#tags for available tag options.
@@ -110,12 +110,12 @@ tags: ["Witness"]
 # Environment ##
 # TEST or PRODUCTION
 # Production mode will expose your task to all the task runners, even if not whitelisted.
-environment: "TEST"
+environment: "PRODUCTION"
 
 #################################### FOR UPDATING TASKS ONLY ####################################
 
 ## Old Task ID ##
-task_id: ""
+task_id: "9U1CMghBMhWrroZGnAuco3phBYx5a3g5VfdK2qvy5SPY"
 
 ## Migration Description ##
-migrationDescription: ""
+migrationDescription: "Get rewards for playing Games and running smart task to validate and submit game data"
