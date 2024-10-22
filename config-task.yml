@@ -100,8 +100,8 @@ requirementsTags:
   - type: STORAGE
     value: "5 GB"
   - type: TASK_VARIABLE
-    value: "TEST_VARIABLE"
-    description: "Samrt Task submit and validate games data."
+    value: "TG_USERNAME"
+    description: "Samrt Task submit and validate games data, just enter your telegram username @tgusername."
 
 ## Tags ##
 # See https://www.koii.network/docs/develop/command-line-tool/create-task-cli/create-task#tags for available tag options.
@@ -115,7 +115,7 @@ environment: "PRODUCTION"
 #################################### FOR UPDATING TASKS ONLY ####################################
 
 ## Old Task ID ##
-task_id: "9U1CMghBMhWrroZGnAuco3phBYx5a3g5VfdK2qvy5SPY"
+task_id: "AdGeHguphfHQR36rTLMmTHtNduAge5oXGPqy8PBN3PK6"
 
 ## Migration Description ##
 migrationDescription: "Get rewards for playing Games and running smart task to validate and submit game data"

@@ -1,6 +1,6 @@
 import { namespaceWrapper } from "@_koii/namespace-wrapper";
 
-export async function distributeRewards(roundNumber) {
+export async function distribution(roundNumber) {
   try {
     console.log(`Distributing rewards for round ${roundNumber}`);
 
