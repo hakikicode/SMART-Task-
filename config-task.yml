@@ -5,10 +5,10 @@
 
 ## Task Name ##
 # Maximum 24 characters.
-task_name: "SMART Task"
+task_name: "SMART- HELLO WORLD -Task "
 
 ## Task Author ##
-author: "Hakiki"
+author: "Smart Open network"
 
 # Task Description Markdown ##
 # If you specify a markdown file, the description field will be ignored.
@@ -17,18 +17,18 @@ markdownDescriptionPath: "./TaskDescription.md"
 
 ## Task Description ##
 # Ignored if you specify a markdown file.
-description: "Earn tokens by playing Smartclick Game"
+description: "SMART Token Hello World Task."
 
 ## Repository URL ##
 # Must be public for whitelisted tasks.
-repositoryUrl: "https://github.com/hakikicode/SMART-Task-"
+repositoryUrl: "https://github.com/hakikicode/SMART-Task"
 
 ## Image URL ##
 # 230x86 pixels.
-imageUrl: "https://github.com/hakikicode/SmartClick/blob/main/public/son.png?raw=true"
+imageUrl: "https://raw.githubusercontent.com/hakikicode/SMART-Task/refs/heads/master/smart%20task.png"
 
 ## Info URL ##
-infoUrl: "https://www.nativeopen.x"
+infoUrl: "https://ipfs.io/ipfs/QmZKCxY6EECLkqyrFPRTRWiL8JCPEvLwvgFQxrpjfkU2VZ/"
 
 ####################################### TASK CONFIGURATION ######################################
 
@@ -65,13 +65,13 @@ minimum_stake_amount: 0.1
 task_type: "KPL"
 
 ## Token Mint Address (ONLY for KPL tasks) ##
-# The Fire Token address is provided as an example.
+# The SMART Token address is provided as an example.
 token_type: "HK8STMDTos4QFocyEADxwdXBrN13DCB9AcwLXsmvBthh"
 
 ## Total Bounty Amount ##
 # The total bounty amount that will be available for distribution over all rounds.
 # Does nothing when updating a task.
-total_bounty_amount: 10
+total_bounty_amount: 1000000
 
 ## Bounty Amount per Round ##
 # The maximum amount that can be distributed per round.
@@ -101,11 +101,11 @@ requirementsTags:
     value: "5 GB"
   - type: TASK_VARIABLE
     value: "TG_USERNAME"
-    description: "Samrt Task submit and validate games data, just enter your telegram username @tgusername."
+    description: "Enter tekegram username with or without @."
 
 ## Tags ##
 # See https://www.koii.network/docs/develop/command-line-tool/create-task-cli/create-task#tags for available tag options.
-tags: ["Witness"]
+tags: ["Data Gathering"]
 
 # Environment ##
 # TEST or PRODUCTION
@@ -115,7 +115,7 @@ environment: "PRODUCTION"
 #################################### FOR UPDATING TASKS ONLY ####################################
 
 ## Old Task ID ##
-task_id: "AdGeHguphfHQR36rTLMmTHtNduAge5oXGPqy8PBN3PK6"
+task_id: "8Bab8XFoqruxbfDz2fXGSZodg2AtsLYZsEiWWRdF3gdk"
 
 ## Migration Description ##
-migrationDescription: "Get rewards for playing Games and running smart task to validate and submit game data"
+migrationDescription: "Get rewards for running smart token HELLO, WORLD Task."
